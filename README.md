@@ -64,4 +64,7 @@ Enter note (optional): Lunch at canteen
 Arun Prasath
 📍 Aspiring Software Developer | 💻 Python Enthusiast | 🎯 Focused on Problem-Solving and Practical Applications
 
-I'm currently learning core programming concepts through hands-on projects in Python. This project marks my first step toward building real-world solutions using code. I'm passionate about continuous learning, clean code, and developing tools that make everyday tasks easier.
+I'm currently learning core programming concepts through hands-on projects in Python.
+This project marks my first step toward building real-world solutions using code.
+I'm passionate about continuous learning,
+clean code, and developing tools that make everyday tasks easier.
